@@ -83,6 +83,7 @@ mainly are:
 + Hash-based cryptography
 + Code-based cryptography
 + Supersingular elliptic curve isogeny cryptography
+
 Yet, currently, these algorithms are either insecure or too inefficient compared to ECDSA and RSA to be 
 put in applications. Google is the first who put a Lattice based key exchange algorithm called "New Hope" 
 based on Lattice Ring-LWE into application(Boring SSL), but it's for experiment purpose and need to be 
@@ -215,6 +216,7 @@ Artificial Intelligence and Blockchain are both revolutionized technologies and 
 trades work. In Xinchain, we want to combine these two technologies to server each other realizing their full potential.  
 
 #AI serves xinchain
+
 For a classic blockchain to work, certain rules need to be made before launch the whole network. These rules are called consensus. However, even though 
 some rules are out-dated, once they are settled, it's nearly impossible for them to be changed. It requires a hard-fork upgrade to change a certain rule. 
 Miners、exchanges、regular nodes need to reach an agreement on this issue, otherwise, the chain will inevitably split into two chains(e.g. BCH). Some projects 
@@ -227,11 +229,12 @@ Also, AI can be used monitoring misbehave nodes(keep sending invalid transaction
 or hard-coded into the node). Plus, AI can be used to detect unexpected situation and warn users, such as network partition, DDoS attack, fraudlent activity 
 etc. 
 
-
 #Xinchain serves AI
+
 Xinchain can also serve the development of AI.
 
 ##Leverage Computing resouces over the blockchain network, Blockchain Help Us Build a Distributed Supercomputer
+
 AI tech is a fascinating tech. It can open up a lot of doors for us. However, it requires a lot of computation power and too expensive 
 for small companies and individuals to pursue. 
 
